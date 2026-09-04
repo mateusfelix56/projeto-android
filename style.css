@@ -81,7 +81,7 @@ nav a:hover{
 
 main{
     max-width: 1050px;
-    min-width: 0px;
+    min-width: 100px;
     margin: auto;
     background-color: aliceblue;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.486);
